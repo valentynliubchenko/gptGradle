@@ -48,5 +48,4 @@ class PluginToolWindowContent {
                 Messages.getInformationIcon()
         )
     }
-
 }
